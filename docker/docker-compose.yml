@@ -97,4 +97,4 @@ networks:
     proxy.example.com:
         driver: overlay
         external: true
-        attachable: true
+#         attachable: true
